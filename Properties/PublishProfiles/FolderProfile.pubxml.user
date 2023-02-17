@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Daniel\source\repos\API-Credit-Card\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2023-02-17T21:21:59.0890468Z;True|2023-02-17T16:08:41.9071072-05:00;True|2023-02-17T15:48:42.1803934-05:00;True|2023-02-17T14:50:48.0229002-05:00;True|2023-02-16T21:44:53.6677818-05:00;True|2023-02-16T17:43:32.3233857-05:00;True|2023-02-16T17:25:57.9871227-05:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
